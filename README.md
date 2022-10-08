@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2> Hey there! I'm Johnney <img src="https://media.giphy.com/media/5xtDarBFszThqQF1o6A/giphy.gif" width="50"></h2>
+<img align="right" width="250" src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Pale'
+/>
+<p>:notebook_with_decorative_cover:Computer Engineering at University of Waterloo
+</p>
 
-<!--
-**JohnneyChen/JohnneyChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: Johnney Chen](https://img.shields.io/badge/-Johnney%20Chen-blue?style=flat-square&logo=Linkedin&logoColor=white/)](https://www.linkedin.com/in/johnney-chen-9552681bb/)
+[![GitHub Johnney Chen](https://img.shields.io/github/followers/JohnneyChen?label=follow&style=social)](https://github.com/JohnneyChen)
 
-Here are some ideas to get you started:
+```javascript
+const johnney = {
+  languages: [Typescript, Javascript, C#, C++, Python, HTML, Css, Scss],
+  techStack: [React, Angular, .Net, NodeJS, Django, Docker, Kubernetes],
+  passions: {
+    "bleeding-edge technologies": true,
+    "microservices": true,
+    "algorithms and design patterns": true,
+    "light mode": false
+  }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>I'd love to connect with different people, so feel free to reach out on any platform!</b>
