@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Johnney <img src="https://media.giphy.com/media/5xtDarBFszThqQF1o6A/giphy.gif" width="50"></h2>
+<h2> Hey there! I'm Johnney</h2>
 <img align="right" width="250" src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Pale'
 />
 <p>:notebook_with_decorative_cover:Computer Engineering at University of Waterloo
